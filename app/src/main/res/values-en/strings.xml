@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string name="calc_title">OPERATION</string>
+    <string name="number_a">Number One</string>
+    <string name="number_b">Number Two</string>
+    <string name="sum">Add</string>
+    <string name="clear">Clear</string>
+    <string name="error_number_one">Enter number one</string>
+    <string name="error_number_two">Enter number two</string>
+</resources>

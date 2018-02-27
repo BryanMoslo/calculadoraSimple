@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string name="calc_title">OPERACIONES</string>
+    <string name="number_a">Numero Uno</string>
+    <string name="number_b">Numero Dos</string>
+    <string name="sum">Sumar</string>
+    <string name="result" />
+    <string name="clear">Limpiar</string>
+    <string name="error_number_one">Digite el numero uno</string>
+    <string name="error_number_two">Digite el numero dos</string>
+</resources>
