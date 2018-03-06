@@ -3,9 +3,23 @@
     <string name="calc_title">OPERACIONES</string>
     <string name="number_a">Numero Uno</string>
     <string name="number_b">Numero Dos</string>
-    <string name="sum">Sumar</string>
     <string name="result" />
     <string name="clear">Limpiar</string>
     <string name="error_number_one">Digite el numero uno</string>
     <string name="error_number_two">Digite el numero dos</string>
+    <string name="operation_type">Tipo de Operacion</string>
+
+    <string name="sum">Sumar</string>
+    <string name="subtract">Restar</string>
+    <string name="multiply">Multiplicar</string>
+    <string name="divide">Dividir</string>
+
+    <string-array name="operations_list">
+        <item>@string/sum</item>
+        <item>@string/subtract</item>
+        <item>@string/multiply</item>
+        <item>@string/divide</item>
+    </string-array>
+
+    <string name="invalid_divide_number">No puede dividir entre cero</string>
 </resources>
